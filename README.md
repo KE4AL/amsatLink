@@ -1,6 +1,6 @@
-# AMSATlink
+# amsatLink
 
-AMSATlink is a proposed formation of nanosatellites linked in a peer-to-peer communications network, dynamically configured to allow for the addition and subtraction of new spacecraft and ground stations.  In addition, AMSATlink will allow for multi-point collection of space weather measurements to contribute a unique set of scientific data for scientific and educational analysis.
+amsatLink is a proposed formation of nanosatellites linked in a peer-to-peer communications network, dynamically configured to allow for the addition and subtraction of new spacecraft and ground stations.  In addition, AMSATlink will allow for multi-point collection of space weather measurements to contribute a unique set of scientific data for scientific and educational analysis.
 
 ## Features:
 
