@@ -2,6 +2,8 @@
 
 amsatLink is a proposed formation of nanosatellites linked in a peer-to-peer communications network, dynamically configured to allow for the addition and subtraction of new spacecraft and ground stations.  In addition, AMSATlink will allow for multi-point collection of space weather measurements to contribute a unique set of scientific data for scientific and educational analysis.
 
+![amsatLink Logo](amsatLink.png)
+
 ## Features:
 
 - IEEE 802.11 wireless ad hoc network, operating within the FCC Part 97 amateur radio frequency allocation of the 2.4 GHz microwave band
