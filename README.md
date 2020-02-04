@@ -32,7 +32,7 @@ While the idea of cross-link communication between satellites is not new, **amsa
 Design and build working prototypes of both nanosatellite and ground nodes as a proof of concept and test systems integration.  Testing will include a terrestrial-based simulation and a high-altitude (60,000 – 105,000 feet ASL) simulation as payload aboard high-altitude balloon launch.
 
 ## Phase 2 ##
-Build two 1.5u nanosatellite nodes and launch them from the ISS as a technology demonstrator of a peer-to-peer communications network.  Due to the expected orbit being only 400km-415km, we expect a short mission lifetime of only one to two weeks.
+Build two 1.5u nanosatellite nodes and launch them from the ISS as a technology demonstrator of a peer-to-peer communications network.  Due to the expected orbit being only 400km-450km, we expect a short mission lifetime of only two weeks to a month.
 
 ## Phase 3 ##
 Initial deployment of a three-1.5u nanosatellite formation at an optimal orbital altitude.  Subsequent launches will add nodes to the network, greatly expanding the cross-link coverage area.
