@@ -2,7 +2,7 @@
 
 **amsatLink** is a proposed three-phased program to ultimately establish a constellation of nanosatellites, linked in a peer-to-peer voice communications network for amateur satellite service.  As a wireless ad hoc network, future satellites can be added to the network and ground stations, moving in and out of a nanosatellite node’s footprint, can easily join and exit the network.
 
-![amsatLink](amsatLink.png)
+![amsatLink](images/amsatLink.png)
 
 ## Features:
 
