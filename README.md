@@ -39,4 +39,4 @@ Initial deployment of a three-1.5u nanosatellite formation at an optimal orbital
 
 
 ## License:
-[CC0-1.0](./LICENSE).
+[GPL 2.0](./LICENSE).
